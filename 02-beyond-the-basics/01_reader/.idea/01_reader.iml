@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="PYTHON_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$" />
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module" module-name="02-functions" />
+    <orderEntry type="module" module-name="03-decorators" />
+    <orderEntry type="module" module-name="04-properties-classmethods" />
+    <orderEntry type="module" module-name="05-strings-representation" />
+    <orderEntry type="module" module-name="06-numeric" />
+    <orderEntry type="module" module-name="07-multi-input-compreensions" />
+    <orderEntry type="module" module-name="08-inherintance-subtypes" />
+    <orderEntry type="module" module-name="09-implementing-collections" />
+    <orderEntry type="module" module-name="10-exceptions-and-errors" />
+    <orderEntry type="module" module-name="11-context-manager" />
+    <orderEntry type="module" module-name="12-introspection" />
+  </component>
+  <component name="TestRunnerService">
+    <option name="PROJECT_TEST_RUNNER" value="Unittests" />
+  </component>
+</module>

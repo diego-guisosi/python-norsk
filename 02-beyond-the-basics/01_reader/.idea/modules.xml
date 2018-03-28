@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/01_reader.iml" filepath="$PROJECT_DIR$/.idea/01_reader.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../02-functions/.idea/02-functions.iml" filepath="$PROJECT_DIR$/../02-functions/.idea/02-functions.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../03-decorators/.idea/03-decorators.iml" filepath="$PROJECT_DIR$/../03-decorators/.idea/03-decorators.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../04-properties-classmethods/.idea/04-properties-classmethods.iml" filepath="$PROJECT_DIR$/../04-properties-classmethods/.idea/04-properties-classmethods.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../05-strings-representation/.idea/05-strings-representation.iml" filepath="$PROJECT_DIR$/../05-strings-representation/.idea/05-strings-representation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../06-numeric-and-scalar-types/.idea/06-numeric-and-scalar-types.iml" filepath="$PROJECT_DIR$/../06-numeric-and-scalar-types/.idea/06-numeric-and-scalar-types.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../07-iterables-and-iteration/.idea/07-iterables-and-iteration.iml" filepath="$PROJECT_DIR$/../07-iterables-and-iteration/.idea/07-iterables-and-iteration.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../08-inherintance-subtypes/.idea/08-inherintance-subtypes.iml" filepath="$PROJECT_DIR$/../08-inherintance-subtypes/.idea/08-inherintance-subtypes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../09-implementing-collections/.idea/09-implementing-collections.iml" filepath="$PROJECT_DIR$/../09-implementing-collections/.idea/09-implementing-collections.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../10-exceptions-and-errors/.idea/10-exceptions-and-errors.iml" filepath="$PROJECT_DIR$/../10-exceptions-and-errors/.idea/10-exceptions-and-errors.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../11-context-manager/.idea/11-context-manager.iml" filepath="$PROJECT_DIR$/../11-context-manager/.idea/11-context-manager.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../12-introspection/.idea/12-introspection.iml" filepath="$PROJECT_DIR$/../12-introspection/.idea/12-introspection.iml" />
+    </modules>
+  </component>
+</project>
