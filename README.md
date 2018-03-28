@@ -1,2 +1,2 @@
 # python-norsk
-Study material
+Examples and study material
