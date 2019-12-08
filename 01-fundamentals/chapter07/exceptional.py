@@ -1,7 +1,7 @@
 import sys
 
-def convert(x):
 
+def convert(x):
     converted_int = -1
     try:
         converted_int = int(x)
@@ -12,7 +12,6 @@ def convert(x):
 
 
 def convert_2(x):
-
     converted_int = -1
     try:
         converted_int = int(x)
@@ -22,7 +21,6 @@ def convert_2(x):
 
 
 def convert_3(x):
-
     try:
         return int(x)
     except (ValueError, TypeError) as e:
@@ -31,7 +29,6 @@ def convert_3(x):
 
 
 def convert_4(x):
-
     try:
         return int(x)
     except (ValueError, TypeError) as e:
@@ -44,7 +41,7 @@ def convert_4(x):
 
 convert("35")
 convert("hedgehog")  # raises ValueError
-convert([1, 2, 3])   # raises TypeError
+convert([1, 2, 3])  # raises TypeError
 print(convert_2("simplemind"))
 print(convert_3("radiohead"))
 

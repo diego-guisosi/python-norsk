@@ -7,7 +7,7 @@ type(p)
 d = {}  # curly braces make an empty dictionary
 print(type(d))
 
-e = set() # use set constructor to create an empty set
+e = set()  # use set constructor to create an empty set
 print(type(e))
 
 # set constructor accepts any iterable

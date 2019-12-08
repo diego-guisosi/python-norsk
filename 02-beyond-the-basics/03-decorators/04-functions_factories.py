@@ -10,9 +10,11 @@ def raise_to(exp):
 if __name__ == '__main__':
     square = raise_to(2)
     print(square.__closure__)
+    print(square.__closure__[0].cell_contents)
     print(square(2))
     print()
 
     cube = raise_to(3)
     print(cube.__closure__)
+    print(cube.__closure__[0].cell_contents)
     print(cube(2))

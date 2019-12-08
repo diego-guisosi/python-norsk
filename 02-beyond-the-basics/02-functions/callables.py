@@ -19,6 +19,7 @@ def my_function():
 print("my_function is callable ? {}".format(callable(my_function)))
 print("MyClass is callable ? {}".format(callable(MyClass)))
 print("MyClass instance is callable ? {}".format(callable(MyClass())))
+print("MyOtherClass is callable ? {}".format(callable(MyOtherClass)))
 print("MyOtherClass instance is callable ? {}".format(callable(MyOtherClass())))
 
 # if the object is callable, it can be called like a function
